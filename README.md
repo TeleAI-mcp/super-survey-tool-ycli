@@ -1,2 +1,3 @@
-# super-survey-tool-ycli
-Repository to test GitHub automation for issue management
+# Super Survey Tool Ycli
+
+A repository to test GitHub automation for issue management.
